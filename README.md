@@ -1,8 +1,8 @@
-<div align='center'> 
-# Lập trình trực quan UIT - Tất cả bài thực hành 
-</div> 
-__________________________________________ 
- ### IT008 - BÀI TẬP THỰC HÀNH TUẦN 1
+<div align='center'>  
+# Lập trình trực quan UIT - Tất cả bài thực hành  
+</div>  
+__________________________________________  
+ ### IT008 - BÀI TẬP THỰC HÀNH TUẦN 1  
 ###### Bài 01:
 Viết chương trình nhập vào một số nguyên dương, xuất ra tổng các chữ số của số đó. Ví dụ:  
 &emsp;Input: 1304  
